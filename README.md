@@ -1,6 +1,4 @@
 ## Hi I'm Ramesh 👋
-
-# 💫 About Me:
 I’m Ramesh, a Software Engineer at UKG. I love solving technical problems and building software that makes people’s work easier. I’m passionate about clean code, good architecture, and continuous learning. Outside of work, I enjoy growing my skills and exploring new tech.
 
 
